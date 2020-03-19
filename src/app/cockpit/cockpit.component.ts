@@ -1,5 +1,8 @@
 import {Component, ElementRef, EventEmitter, Input, OnInit, Output, ViewChild} from '@angular/core';
 
+
+
+
 @Component({
   selector: 'app-cockpit',
   templateUrl: './cockpit.component.html',
